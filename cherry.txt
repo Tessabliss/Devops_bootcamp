@@ -1,0 +1,6 @@
+ List of mostly used command
+ 1. git push
+ 2. git commit
+ 3. git fetch
+ 4. git pull
+ 5.git add
